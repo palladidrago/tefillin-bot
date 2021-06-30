@@ -1,0 +1,15 @@
+{
+  "name": "tefillin-bot",
+  "version": "0.0.1",
+  "description": "Itsabot",
+  "main": "TefillinBot.js",
+  "scripts": {
+    "start": "node *.js"
+  },
+
+  "author": "palla",
+  "license": "ISC",
+  "dependencies": {
+    "venom-bot": "^3.0.17"
+  }
+}
